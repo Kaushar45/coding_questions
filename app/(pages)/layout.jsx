@@ -1,4 +1,4 @@
-const Layout = ({ children }: { children: React.ReactNode }) => {
+const Layout = ({ children }) => {
   return (
     <div className="min-h-screen">
       {/* Page Content */}
